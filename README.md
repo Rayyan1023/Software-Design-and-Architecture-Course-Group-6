@@ -4,7 +4,8 @@
 [UML Diagram](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/UML%20Class.png)
 
 Test Drivers:
+
 [FancyHoodieTest](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/SRC/FancyHoodieTest.java)
-FancySweaterTest: https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/SRC/FancySweaterTest.java
+[FancySweaterTest](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/SRC/FancySweaterTest.java)
 SweaterTest: 
 Hoodietest: 
