@@ -1,0 +1,15 @@
+{ 
+	"sweater":{
+		"price":5.00
+	},
+	"hoodie":{
+		"price":8.00
+	},
+	"Fancy Sweater":{
+		"price":20.00
+	},
+	"Fancy Hoodie":{
+		"price":30.00
+	}
+	
+}
