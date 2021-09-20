@@ -1,5 +1,5 @@
 # Software-Design-and-Architecture-Course-Group-6
-# **Software-Design-and-Architecture-Course-Group-6**
+
 ## Table of Contents
 [UML Diagram](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/UML%20Class.png)
 
@@ -12,3 +12,5 @@ Test Drivers:
 [SweaterTest](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/SRC/SweaterTest.java)
 
 [Hoodietest](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/SRC/HoodieTest.java)
+
+
