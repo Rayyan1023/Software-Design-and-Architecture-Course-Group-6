@@ -1,7 +1,7 @@
 # Software-Design-and-Architecture-Course-Group-6
 
 ## Table of Contents
-[UML Diagram](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/UML%20Class.png)
+[UML Diagram](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/UML%20Class%20Diagram.png)
 
 Test Drivers:
 
