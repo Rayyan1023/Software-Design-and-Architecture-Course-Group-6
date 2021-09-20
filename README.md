@@ -9,6 +9,6 @@ Test Drivers:
 
 [FancySweaterTest](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/SRC/FancySweaterTest.java)
 
-SweaterTest: 
+[SweaterTest](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/SRC/SweaterTest.java)
 
-Hoodietest: 
+[Hoodietest](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/Assignment1/SRC/HoodieTest.java)
