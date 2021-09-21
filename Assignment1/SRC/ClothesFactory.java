@@ -1,6 +1,6 @@
-public class ClotesFactory extends ProductFactory {
+public class ClothesFactory extends ProductFactory {
     @Override
-    public Clothes getClothhes(String ClothesType) {
+    public Clothes getClothes(String ClothesType) {
         if (ClothesType.equalsIgnoreCase("sweater")) {
             JSON jsonSweater = new JSON("sweater");
             double sweaterPrice = jsonSweater.getJson();
