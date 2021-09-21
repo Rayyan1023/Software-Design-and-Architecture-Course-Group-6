@@ -20,6 +20,6 @@ class FancySweaterTest {
         Clothes sweater1 = clothesFactory.getClothes("SWEATER");
 
    
-        assertEquals(100.00, clothesPrice, 0);
+        assertEquals(100.00, sweatherPrice, 0);
     }
 }
