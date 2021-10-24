@@ -3,8 +3,9 @@
 ## Table of Contents
 [UML Diagram](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/assignment1/Assignment1.drawio.png)
 
-Main File
-[AbstractDesign.java](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/assignment1/src/AbstractDesign.java)
+[Main File](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/assignment1/src/AbstractDesign.java)
+
+[Output](https://github.com/Rayyan1023/Software-Design-and-Architecture-Course-Group-6/blob/main/assignment1/assigbment1%20output.png)
 
 
 <br>
