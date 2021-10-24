@@ -4,6 +4,8 @@ class ShoeFactory {
     public static Shoe buyShoe(ShoeType model) {
         Shoe shoe = null;
         switch(model) {
+
+            // Addresses appropriate prices for each  shoe (Running shoes and Slippers)
             case RUNNING:
                 shoe = new Running(Price.$40);
                 break;
